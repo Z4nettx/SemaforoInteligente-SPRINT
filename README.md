@@ -18,5 +18,5 @@
 
 #### Segue a representação do estágio atual do projeto, por TinkerCad.
 
-![Demonstração do Projeto](SPRINT2/RepresentacaoCircuitoSPRINT.gif)
+![Image](https://github.com/user-attachments/assets/a29fe9b6-e228-4731-85fb-1845548074f2)
 
