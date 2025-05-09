@@ -18,4 +18,5 @@
 
 #### Segue a representação do estágio atual do projeto, por TinkerCad.
 
-![Alt text](SemaforoInteligente-SPRINT/SPRINT2/to/RepresentacaoCircuitoSprint.gif "Representação do projeto físico")
+![Demonstração do Projeto](SPRINT2/RepresentacaoCircuitoSPRINT.gif)
+
