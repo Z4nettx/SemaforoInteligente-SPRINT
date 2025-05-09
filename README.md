@@ -1,6 +1,6 @@
 # Projeto de Semáforo Inteligente, em SPRINTS.
 
-## <pre>Feito por: [Nicoly Ribeiro](http://github.com/nicolyribeiroo7 "Nicoly Ribeiro"), [Mariana Ribeiro](http://github.com/MarianaRibeiro07 "Mariana Ribeiro"), <br> [Eduardo Zanetti](http://github.com/Z4nettx "Eduardo Zanetti"), [Rafael Brecci](http://github.com/rbrecci "Rafael Brecci") e [Nicolas Fernandes](http://github.com/NickSantos18 "Nicolas Fernandes").
+## <pre>Feito por: [Nicoly Ribeiro](http://github.com/nicolyribeiroo7 "Nicoly Ribeiro"), [Mariana Ribeiro](http://github.com/MarianaRibeiro07 "Mariana Ribeiro"), <br>[Eduardo Zanetti](http://github.com/Z4nettx "Eduardo Zanetti"), [Rafael Brecci](http://github.com/rbrecci "Rafael Brecci") e [Nicolas Fernandes](http://github.com/NickSantos18 "Nicolas Fernandes").
 
 <br>
 
