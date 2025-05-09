@@ -15,3 +15,7 @@
 ### Na Sprint 2, obtivemos experiência manual com o Arduino, adquirindo melhor entendimento de como prosseguir com o projeto.
 #### Com o Arduino em mãos, pôde-se adicionar requisitos funcionais e não funcionais no projeto, como queríamos na [Sprint 1](./SPRINT1/). Isto é, sensores de movimento para pedestres e carros, entre outros. 
 #### Além disso, foi possível fazer uma lista de materiais para a execução do projeto, como: Sensor Ultrasônico (HR-SR04); LED's; Resistores e Fios para a instalação do circuito, além de claro, o Arduino UNO.
+
+#### Segue a representação do estágio atual do projeto, por TinkerCad.
+
+![Alt text](/SPRINT2/RepresentacaoCircuitoSPRINT "Representação do projeto físico")
