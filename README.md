@@ -20,3 +20,7 @@
 
 ![Image](https://github.com/user-attachments/assets/a29fe9b6-e228-4731-85fb-1845548074f2)
 
+#### Representação do funcionamento com Sensor Ultrasônico:
+
+![Image](https://github.com/user-attachments/assets/74603f4b-a4de-465f-bfc4-6e33259ead2d)
+
