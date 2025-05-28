@@ -24,11 +24,16 @@
 
 #### Segue a representação do estágio atual do projeto, por TinkerCad.
 
-![Image](https://github.com/user-attachments/assets/a29fe9b6-e228-4731-85fb-1845548074f2)
+
+<img  src=assets/RepresentacaoInicialProjetoBotao.gif alt="RepresentacaoAtual" />
+  <br> <br> <br>
+
+
 
 #### Representação do funcionamento com Sensor Ultrasônico:
 
-![Image](https://github.com/user-attachments/assets/74603f4b-a4de-465f-bfc4-6e33259ead2d)
+<img height="480" width="640" src="assets/RepresentacaoInicialUltrasonico.gif" alt="RepresentacaoUltrasonico" />
+  <br> <br> <br>
 
 <hr>
 
@@ -46,7 +51,7 @@
 <br>
 <li> Uma situação de acidente: um semáforo sinalizando alerta, e uma viatura de polícia para averiguar o ocorrido. </li>
 <br>
-<li> <strong>Observação: a equipe optou por juntar as programações da viatura de polícia e do semáforo em situação de acidente. </strong>
+ <strong>Observação: a equipe optou por juntar as programações da viatura de polícia e do semáforo em situação de acidente. </strong>
 </em>
 </ul>
 <br>
@@ -57,23 +62,26 @@
 
 #### Portanto, o estágio atual, em TinkerCad, do projeto, ficou assim:
 
-https://github.com/user-attachments/assets/233aabe3-3c35-4edc-ad0b-1a2d5e250ef5 <!-- video -->
+<video width="640" height="480" controls>
+<source src="CircuitoCompletoRepresentacao.mp4" type="video/mp4">
+</video> <!-- video -->
+<br> <br> <br>
 
 #### Segue também, algumas fotos de como ocorreu a confecção da maquete:
 
 <p align="justify">
-  <img src="https://github.com/user-attachments/assets/310d8352-3d42-456f-9fc9-4789fbeb1441" alt="Confecção Maquete 1" />
+  <img src="assets/ConfeccaoMaquete1.png" alt="Confecção Maquete 1" />
   <br> <br> <br>
-  <img src="https://github.com/user-attachments/assets/dce27c27-98d0-4907-bb63-fbe54e09d2cc" alt="Confecção Maquete 2" />
+  <img src="assets/ConfeccaoMaquete2.png" alt="Confecção Maquete 2" />
   <br> <br> <br>
-  <img src="https://github.com/user-attachments/assets/1832442a-a3f6-4393-a0c2-3c134ea6e872" alt="Confecção Maquete 3" />
+  <img src="assets/ConfeccaoMaquete3.png" alt="Confecção Maquete 3" />
   <br> <br> <br>
-  <img src="https://github.com/user-attachments/assets/98e6cce6-47ee-49f6-b135-9139f1f33198" alt="Confecção Maquete 4" />
+  <img src="assets/ConfeccaoMaquete4.png" alt="Confecção Maquete 4" />
   <br> <br> <br>
 </p>
  
 
-#### E a programação completa no TinkerCad:
+## Códigos-fonte, testados em TinkerCad:  
 
 <pre> 
 // PROGRAMAÇÃO: SEMÁFORO DE CARROS E PEDESTRES COM SENSOR ULTRASÔNICO 
@@ -258,8 +266,15 @@ void loop() {
 </pre>
 <br>
 
-### Executando as programações e os testes do Arduino na maquete, conseguimos então:
+
+
+#### Para executar na maquete, usamos o Arduino e a protoboard em baixo, e conectamos os fios ao semáforo por meio de canudos, que usamos como postes. A demonstração do projeto quase feito, é realizada em algumas partes: 
 <ul>
 <em>
-<li> Usar apenas um Arduino na parte de baixo da maquete, junto com também apenas uma protoboard; </li>
-<li> Conectar os fios e colocar eles no </li>
+<li> Primeiramente, o semáforo com sensor ultrasônico; </li>
+<br> 
+<li> Depois, colocamos a programação para mostrar o funcionamento do semáforo com o botão; </li>
+<br> 
+<li> No terceiro momento, mostramos uma situação de acidente, onde a viatura policial fica com as sirenes piscando, e o semáforo piscando vermelho, alertando o acidente. </li>
+</em>
+</ul>
