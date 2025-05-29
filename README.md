@@ -261,7 +261,7 @@ void loop() {
 </pre>
 <br>
 
-#### Para executar na maquete, usamos o Arduino e a protoboard em baixo, e conectamos os fios ao semáforo por meio de canudos, que usamos como postes. A demonstração do projeto quase feito, é realizada em algumas partes:
+### Para executar na maquete, usamos o Arduino e a protoboard em baixo, e conectamos os fios ao semáforo por meio de canudos, que usamos como postes. A demonstração do projeto quase feito, é realizada em algumas partes:
 
 <ul>
 <em>
@@ -291,5 +291,6 @@ void loop() {
 <li> A situação acidente.
 </em>
 </ul>
+<br>
 
 #### Devemos  sinceros agradecimentos aos professores instrutores do projeto: Diogo Nascimento e Raul Lopes, além da instituição <em>SENAI</em> pela disponibilização de materiais necessários para a confecção da maquete.
