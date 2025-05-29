@@ -24,16 +24,12 @@
 
 #### Segue a representação do estágio atual do projeto, por TinkerCad.
 
-
 <img  src=assets/RepresentacaoInicialProjetoBotao.gif alt="RepresentacaoAtual" />
-  <br> <br> <br>
-
-
-
+  
 #### Representação do funcionamento com Sensor Ultrasônico:
-
+<br>
 <img height="480" width="640" src="assets/RepresentacaoInicialUltrasonico.gif" alt="RepresentacaoUltrasonico" />
-  <br> <br> <br>
+  <br> 
 
 <hr>
 
@@ -62,10 +58,9 @@
 
 #### Portanto, o estágio atual, em TinkerCad, do projeto, ficou assim:
 
-<video width="640" height="480" controls>
-<source src="CircuitoCompletoRepresentacao.mp4" type="video/mp4">
-</video> <!-- video -->
-<br> <br> <br>
+ <img height="480" width="640" src="assets/CircuitoCompletoRepresentacao.gif" alt="RepresentacaoCompleta" />
+  <br> <!-- video -->
+
 
 #### Segue também, algumas fotos de como ocorreu a confecção da maquete:
 
@@ -79,9 +74,9 @@
   <img src="assets/ConfeccaoMaquete4.png" alt="Confecção Maquete 4" />
   <br> <br> <br>
 </p>
- 
 
-## Códigos-fonte, testados em TinkerCad:  
+
+## Códigos-fonte, testados em TinkerCad:
 
 <pre> 
 // PROGRAMAÇÃO: SEMÁFORO DE CARROS E PEDESTRES COM SENSOR ULTRASÔNICO 
@@ -266,9 +261,8 @@ void loop() {
 </pre>
 <br>
 
+#### Para executar na maquete, usamos o Arduino e a protoboard em baixo, e conectamos os fios ao semáforo por meio de canudos, que usamos como postes. A demonstração do projeto quase feito, é realizada em algumas partes:
 
-
-#### Para executar na maquete, usamos o Arduino e a protoboard em baixo, e conectamos os fios ao semáforo por meio de canudos, que usamos como postes. A demonstração do projeto quase feito, é realizada em algumas partes: 
 <ul>
 <em>
 <li> Primeiramente, o semáforo com sensor ultrasônico; </li>
@@ -278,3 +272,24 @@ void loop() {
 <li> No terceiro momento, mostramos uma situação de acidente, onde a viatura policial fica com as sirenes piscando, e o semáforo piscando vermelho, alertando o acidente. </li>
 </em>
 </ul>
+
+### Conseguimos, portanto, concluir o desafio feito pela ABC Technology e assim, propor uma solução ao trânsito da cidade de Santo André.
+
+#### As nossas soluções fornecem praticidade e efetividade sendo automáticas, com botões funcionais e automáticos, ou com sensor ultrasônico. E funcionam perfeitamente, com possibilidade de adaptações nos tempos de cada semáforo. 
+#### Adquirimos durante o processo de confecção, tanto da maquete, quanto dos códigos, um melhor conhecimento de Arduino e da linguagem utilizada (C++).
+#### Colocamos como requisitos funcionais: 
+<ul>
+<em>
+<li> O semáforo com sensor ultrasônico; 
+<li> O semáforo com pedestres funcionando por botão de preferência.
+</em>
+</ul>
+
+#### E não-funcionais:
+<ul>
+<em>
+<li> A situação acidente.
+</em>
+</ul>
+
+#### Devemos  sinceros agradecimentos aos professores instrutores do projeto: Diogo Nascimento e Raul Lopes, além da instituição <em>SENAI</em> pela disponibilização de materiais necessários para a confecção da maquete.
