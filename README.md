@@ -293,4 +293,6 @@ void loop() {
 </ul>
 <br>
 
+#### O vídeo apresentando o projeto final se encontra no link: [Video Projeto](https://drive.google.com/file/d/1BJw4B3XVZUWWlR7Z-cgFlfdNCX-DxN4B/view?usp=sharing)
+
 #### Devemos  sinceros agradecimentos aos professores instrutores do projeto: Diogo Nascimento e Raul Lopes, além da instituição <em>SENAI</em> pela disponibilização de materiais necessários para a confecção da maquete.
